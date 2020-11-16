@@ -5,7 +5,7 @@
 後續有規劃會繼續對這個主題增加更多的分析，以後都會一起更新在這個repo。
 
 Hi! This is a text mining project that focuses on how people discuss open-relationship and polyamory in the PTT, one of Taiwan's most prominent social media.
-We uploaded the Chinese slides that we used in the Poly open up annual gathering and the figures of world cloud that we do not include in the slides. Please feel free to download and use them (if you can refer us when sharing these figures in your presentation, we will be very grateful).
+We uploaded the Chinese slides that we used in the Poly open up annual gathering and the figures of world cloud that we do not include in the slides. Please feel free to download and use them (if you can acknowledge us when sharing these figures in your presentation, we will be very grateful).
 We plan to conduct more analysis by using more advanced methods and including more content. If you want to know more about the latest results, please feel free to follow this repo.
 
 ## TODO
