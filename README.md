@@ -9,7 +9,8 @@ We uploaded the Chinese slides that we used in the Poly open up annual gathering
 We plan to conduct more analysis by using more advanced methods and including more content. If you want to know more about the latest results, please feel free to follow this repo.
 
 ## TODO
-[ ] 互動式網頁 interative visualization website
-[ ] LGBTQI+版本的分析 analysis including people from LGBTQI+ community
-[ ] word embedding
-[ ] n-gram frequency
+
+- [ ] 互動式網頁 interative visualization website
+- [ ] LGBTQI+版本的分析 analysis including people from LGBTQI+ community
+- [ ] word embedding
+- [ ] n-gram frequency
